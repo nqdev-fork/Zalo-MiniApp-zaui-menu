@@ -33,8 +33,6 @@ Public template for building an online menu and ordering app for restaurants.
 
 ### Using Zalo Mini App CLI
 
-> **Note:** Vite 5 compatibility in CLI is under development. Until then, please use the Zalo Mini App Extension.
-
 1. [Install Node JS](https://nodejs.org/en/download/).
 1. [Install Zalo Mini App CLI](https://mini.zalo.me/docs/dev-tools/cli/intro/).
 1. **Download** or **clone** this repository.
